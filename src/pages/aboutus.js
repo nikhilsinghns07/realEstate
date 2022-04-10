@@ -1,5 +1,4 @@
 import React from "react"
-
 import pic2 from '../pics/pic2.jpg'
 import classes from './style.module.css'
 

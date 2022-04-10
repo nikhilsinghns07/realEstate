@@ -2,7 +2,32 @@
   padding-top: 20px;
 }
 
-.contact{
+.building{
+  height: 5 40px;
+  width: 100%;
+  
+}
+
+.intro {  
+  position: relative;
+}
+
+
+.carousel{  
+  margin: 30px;
+}
+
+.card{
+  margin: 20px;
+  font-size: large;
+  font-style: oblique;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  letter-spacing: 2px;
+  height: max-content;
+}
+
+
+/* .contact{
     font-weight: bolder;
     padding: 1rem;
     margin: 1rem;
@@ -18,14 +43,7 @@
   padding-right: 50%;
 }
 
-.card {
-  padding: 1rem;
-  margin: 1rem;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
-  border-radius: 6px;
-  background-color: white;
-  display: block;
-}
+
 
 .h3{
   text-align: center;
@@ -196,4 +214,4 @@
   padding:4rem;
   font-size: larger;
   font-family:cursive;
-}
+} */

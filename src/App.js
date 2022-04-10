@@ -3,7 +3,7 @@ import { Route, Switch, Redirect } from 'react-router-dom';
 
 import Home from './pages/Home';
 import Projects from './pages/Projects';
-import Aboutus from './pages/aboutus';
+import Aboutus from './pages/AboutUs';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './components/Header';
 
