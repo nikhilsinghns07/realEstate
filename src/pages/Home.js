@@ -3,6 +3,7 @@ import classes from './style.module.css'
 import building from '../pics/pic1.png'
 import {Carousel,Card} from 'react-bootstrap'
 import FeedBack from '../components/Feedback'
+import Footer from '../components/Footer'
 import b1 from '../pics/b1.jpg'
 import b2 from '../pics/b2.jpg'
 import b3 from '../pics/b3.png'
@@ -42,6 +43,7 @@ const Home = () => {
                 </Card.Body>
             </Card>
             <FeedBack />
+            <Footer />
         </React.Fragment>
     )
 }
