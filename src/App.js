@@ -6,6 +6,7 @@ import Projects from './pages/Projects';
 import Aboutus from './pages/AboutUs';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Header from './components/Header';
+import Contact from './pages/Contact';
 
 function App() {
   return (
@@ -26,9 +27,14 @@ function App() {
           <Aboutus />
         </Route>
 
+        <Route path='/contact'>
+          <Contact />
+        </Route>
+
         <Route path ='*'>
           <Redirect to='/'></Redirect>
         </Route>
+
       </Switch>
 
       
